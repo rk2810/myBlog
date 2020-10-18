@@ -1,4 +1,4 @@
-baseURL = "https://rohank.dev/"
+baseURL = "https://nostalgic-montalcini-b33c16.netlify.app/"
 languageCode = "en-us"
 title = "Rohan's Blog"
 theme="archie"
