@@ -10,7 +10,9 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="dark"
 	featherIconsCDN=true
-	subtitle = "My Recent Posts"
+	subtitle = "Recent Posts"
+
+# Socials
 
 [[params.social]]
 name = "GitHub"
@@ -21,6 +23,13 @@ url = "https://github.com/rk2810"
 name = "LinkedIn"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/rohan-khurana-340b1b147/"
+
+[[params.social]]
+name = "Telegram"
+icon = "message-circle"
+url = "https://t.me/PulsatingQuasar"
+
+# Sections
 
 [[menu.main]]
 name = "About"
@@ -33,6 +42,11 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
+name = "Projects"
+url = "/projects/projects"
+weight = 3
+
+[[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 3
+weight = 4
