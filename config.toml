@@ -10,15 +10,20 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="dark"
 	featherIconsCDN=true
-	subtitle = "A side project to flaunt what I do."
+	subtitle = "My Recent Posts"
 
 [[params.social]]
 name = "GitHub"
 icon = "github"
 url = "https://github.com/rk2810"
 
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/rohan-khurana-340b1b147/"
+
 [[menu.main]]
-name = "Home"
+name = "About"
 url = "/about"
 weight = 1
 

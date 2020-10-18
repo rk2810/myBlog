@@ -7,7 +7,7 @@ tags: ["about"]
 ---
 
 Hi, I am Rohan. I am based off NCR, India.
-I am a backend developer with a keen interest in DevOps.
+I am a backend developer with keen interest in DevOps.
 I mostly work with Python and Django. I can also work with golang and Js.
 I like to use bleeding edge technology. Some of the technologies I've worked with on production are:
 - Django
