@@ -1,0 +1,33 @@
+baseURL = "https://rohank.dev/"
+languageCode = "en-us"
+title = "Rohan's Blog"
+theme="archie"
+
+copyright = "© Rohan"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="dark"
+	featherIconsCDN=true
+	subtitle = "A side project to flaunt what I do."
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/rk2810"
+
+[[menu.main]]
+name = "Home"
+url = "/about"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
