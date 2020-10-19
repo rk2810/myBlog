@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="dark"
 	featherIconsCDN=true
-	subtitle = "Recent Posts"
+	subtitle = "Hi, I'm [Rohan](about/). Welcome to my blog."
 
 # Socials
 
