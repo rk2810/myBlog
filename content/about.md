@@ -22,11 +22,10 @@ I love designing scalable backend architectures and improvising deployment strat
 I adore simple and clean code. I like to see elegant code and also make some, now and then.
 
 If you are a potential employer:
- 1. Most of my work is private for obvious reasons BUT I am more than happy to discuss about it privately.
- 2. You can obtain latest copy of my resume from my [public drive](https://drive.google.com/drive/folders/19SoK9qPQmrPFekpFuRsJUNpGDp0agsXy?usp=sharing)
+ 1. Most of my work is private for obvious reasons *BUT* I am more than happy to discuss about it privately.
+ 2. You can obtain latest copy of my resume from my [here](/resume.pdf)
 
 # Contact Me
 
 You can easily reach me instantly via my [telegram handle](https://t.me/PulsatingQuasar) \
 or you can drop me a [mail](mailto:rohan.kumquat@gmail.com)
-
