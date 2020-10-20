@@ -23,7 +23,7 @@ I adore simple and clean code. I like to see elegant code and also make some, no
 
 If you are a potential employer:
  1. Most of my work is private for obvious reasons *BUT* I am more than happy to discuss about it privately.
- 2. You can obtain latest copy of my resume from my [here](/resume.pdf)
+ 2. You can obtain latest copy of my resume from [here](/resume.pdf)
 
 # Contact Me
 
