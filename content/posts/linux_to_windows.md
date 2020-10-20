@@ -36,7 +36,7 @@ These all can run as good on Windows as they work on Linux, the problem is setti
 They just work better on Linux + there is a better chance of preemptive detection of issues that may occur on Linux environments.
 All in all, I am using Linux inside Windows for development and keeping windows clutter-free.
 
-Now Terminals are sexy, and we all know that for a fact. The one thing I loved the most on Windows is the new [Windows Terminal](https://www.youtube.com/watch?v=8gw0rXPMMPE). Unlike Command Prompt and Powershell, it is just amazing, not to mention it has (great themes)[https://windowsterminalthemes.dev/] and yes, it has window splitting.
+Now Terminals are sexy, and we all know that for a fact. The one thing I loved the most on Windows is the new [Windows Terminal](https://www.youtube.com/watch?v=8gw0rXPMMPE). Unlike Command Prompt and Powershell, it is just amazing, not to mention it has [great themes](https://windowsterminalthemes.dev/) and yes, it has window splitting.
 
 ## Down to Business
 
