@@ -35,7 +35,7 @@ So your git timeline might look like this now:
 Now that you have 3 branches to keep up with, you should understand these branches.
 
 1. `develop` branch is your branch with the latest and greatest code. All the stuff you are working is on the `develop` branch.
-2. `staging` is the branch where you merge code from your `develop` branch before making it available to the world. Sorta beta phase.
+2. `stage` is the branch where you merge code from your `develop` branch before making it available to the world. Sorta beta phase.
 3. `master` well, the master is master and it should be deployable at all times.
 
 ## Coding and Committing
@@ -80,7 +80,7 @@ Testing your application with config similar to prod can help you mitigate unwan
 
 Once approved by QA, you're ready to move stuff to production.
 
-The cool thing about this is, you can be totally working on a new feature branch already, totally independent from the current state of staging and master.
+The cool thing about this is, you can be totally working on a new feature branch already, totally independent from the current state of stage and master.
 
 ![moving_to_prod](/images/git_branching/moving_to_prod.png)
 
