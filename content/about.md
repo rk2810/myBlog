@@ -15,12 +15,11 @@ Some of the technologies I’ve worked with on production are:
 - Redis
 - NoSQL
 - [NiFi](https://nifi.apache.org/)
-- Etc.
 
 I love designing scalable back-end architectures and improvising deployment strategies. I adore simple and clean code. I like to see elegant code and also make some, now and then.
 If you are a potential employer:
 
-1. Most of my work is private for obvious reasons BUT I am more than happy to discuss it privately.
+1. Most of my work is private for obvious reasons BUT.. I am more than happy to discuss it privately.
 2. You can obtain the latest copy of my resume, [here](https://rohank.dev/resume.pdf).
 
 # Contact Me
