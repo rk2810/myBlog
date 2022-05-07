@@ -8,7 +8,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
-	mode="dark"
+	mode="auto"
 	featherIconsCDN=true
 	subtitle = "Hi, I'm [Rohan](about/). Welcome to my blog."
 
