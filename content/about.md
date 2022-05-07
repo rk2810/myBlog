@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2020-10-18T19:46:08+05:30
+date: 2022-05-07T19:46:08+05:30
 draft: False
 tags: ["about", "contact"]
 ---
